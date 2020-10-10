@@ -1,0 +1,20 @@
+E:\Data Security\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe.config
+E:\Data Security\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe
+E:\Data Security\SimpleEncrypt\bin\Debug\SimpleEncrypt.pdb
+E:\Data Security\SimpleEncrypt\obj\Debug\1512250_Encrypt.csprojAssemblyReference.cache
+E:\Data Security\SimpleEncrypt\obj\Debug\SimpleEncrypt.Form1.resources
+E:\Data Security\SimpleEncrypt\obj\Debug\SimpleEncrypt.Properties.Resources.resources
+E:\Data Security\SimpleEncrypt\obj\Debug\1512250_Encrypt.csproj.GenerateResource.cache
+E:\Data Security\SimpleEncrypt\obj\Debug\1512250_Encrypt.csproj.CoreCompileInputs.cache
+E:\Data Security\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
+E:\Data Security\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb
+E:\Data Security\1512250\Symmetric Key\bin\Debug\SimpleEncrypt.exe.config
+E:\Data Security\1512250\Symmetric Key\bin\Debug\SimpleEncrypt.exe
+E:\Data Security\1512250\Symmetric Key\bin\Debug\SimpleEncrypt.pdb
+E:\Data Security\1512250\Symmetric Key\obj\Debug\1512250_Encrypt.csprojAssemblyReference.cache
+E:\Data Security\1512250\Symmetric Key\obj\Debug\SimpleEncrypt.Form1.resources
+E:\Data Security\1512250\Symmetric Key\obj\Debug\SimpleEncrypt.Properties.Resources.resources
+E:\Data Security\1512250\Symmetric Key\obj\Debug\1512250_Encrypt.csproj.GenerateResource.cache
+E:\Data Security\1512250\Symmetric Key\obj\Debug\1512250_Encrypt.csproj.CoreCompileInputs.cache
+E:\Data Security\1512250\Symmetric Key\obj\Debug\SimpleEncrypt.exe
+E:\Data Security\1512250\Symmetric Key\obj\Debug\SimpleEncrypt.pdb
